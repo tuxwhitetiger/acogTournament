@@ -1,0 +1,7 @@
+INDEX VERSION 1.122+D:\GitHub\acogTournament\.git\branches\main\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2724193655.index
+3244160501.index
+1665866853.index
+1628630063.index
+1954002886.index
+3939378637.index
